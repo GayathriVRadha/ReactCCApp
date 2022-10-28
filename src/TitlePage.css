@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  background-image: url(./images/fp1.avif);
+  background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+}
+
+.App-header{
+  position: relative;
+  top: 90px;
+}
+
+.App-content {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;;
+  color: white;
+}
+
